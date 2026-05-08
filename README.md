@@ -64,9 +64,7 @@ The main goal of this project is to analyze business performance and present dat
 McDonalds-Sales-Excel-Dashboard/
 │── McDonalds_Dashboard.xlsx
 │── Dataset/ ## 📂 Project Files
-* **Interactive Dashboard:** [Download the Excel File here](https://github.com/Laxmikaur/McDonald-s-India-Sales-Performance-Dashboard/blob/main/mc%20donald.xlsx?raw=true)
-* **Raw Data:** [View Dataset](https://github.com/Laxmikaur/McDonald-s-India-Sales-Performance-Dashboard/tree/main/Data)
-│── Images/  (https://github.com/Laxmikaur/McDonald-s-India-Sales-Performance-Dashboard/blob/main/MC%20Donald%20Excel%20Dashboard.png)
+│── Images/  
 │── README.md
 
 ## 🚀 How to Use
@@ -83,9 +81,6 @@ Data Visualization
 Business Intelligence
 Interactive Reporting
 Data Cleaning
-
-##📷 Dashboard Preview
-(https://github.com/Laxmikaur/McDonald-s-India-Sales-Performance-Dashboard/blob/main/MC%20Donald%20Excel%20Dashboard.png)
 
 👩‍💻 Author
 Laxmi Kaur
